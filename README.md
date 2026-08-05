@@ -107,8 +107,8 @@ jupyter
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/qazalnaderi/epileptic-seizure-detection-ml.git
-cd epileptic-seizure-detection-ml
+git clone https://github.com/qazalnaderi/epileptic-seizure-detection.git
+cd epileptic-seizure-detection
 ```
 
 2. Install the dependencies:
