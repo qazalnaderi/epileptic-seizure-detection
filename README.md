@@ -107,7 +107,7 @@ jupyter
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/epileptic-seizure-detection-ml.git
+git clone https://github.com/qazalnaderi/epileptic-seizure-detection-ml.git
 cd epileptic-seizure-detection-ml
 ```
 
